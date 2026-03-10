@@ -1,5 +1,7 @@
 # Analog Computer Project - Team Hypertronics
 
+<img src="images/final_ac0.jpg" width="250"/>
+
 ## 📖 Overview
 **Team Hypertronics** developed this project for the **EN2091 - Laboratory Practice and Projects** module. It demonstrates the functionality of operational amplifier (op-amp) circuits in performing fundamental analog computations. The system is designed to process signals within the **1 Hz to 10 kHz** frequency range.
 
