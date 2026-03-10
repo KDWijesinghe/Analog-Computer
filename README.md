@@ -10,7 +10,7 @@
 
 The analog computer features a dual-channel input interface, adjustable gain control mechanisms, and a modular, stable power supply system.
 
----
+
 
 ## 🧮 Key Functionalities
 The device performs the following mathematical operations using analog circuitry:
@@ -20,7 +20,7 @@ The device performs the following mathematical operations using analog circuitry
 * **Integration**
 * **Differentiation**
 
----
+
 
 ## 🛠 Technical Specifications
 The device parameters achieved during the final implementation are as follows:
@@ -35,7 +35,7 @@ The device parameters achieved during the final implementation are as follows:
 | **Accuracy** | $\pm (1-10)\%$ |
 | **Maximum Gain** | x10 |
 
----
+
 
 ## 🔌 Circuit Design & Components
 
@@ -55,7 +55,7 @@ The device parameters achieved during the final implementation are as follows:
     * **Design Note:** Larger input resistors were used here to ensure small currents for a predictable log function.
 3.  **Power Supply:** A dedicated module providing a fixed $\pm 12V$ using **LM7812** and **LM7912** voltage regulators.
 
----
+
 
 ## 💻 Simulation & Tools
 The project utilized a combination of simulation software and hardware implementation:
@@ -63,13 +63,13 @@ The project utilized a combination of simulation software and hardware implement
 * **LTSpice:** Used for circuit-level simulation.
 * **PCB Design:** Custom PCBs designed for the computing modules and power supply.
 
----
+
 
 ## ⚠️ Challenges & Solutions
 * **Challenge:** Non-linearity in the multiplier circuit due to BJT mismatches in the Gilbert cell architecture.
 * **Solution:** Transitioned to a **Log-Antilog multiplier** design with specific modifications, which successfully linearized the output.
 
----
+
 
 ## 👥 Team Hypertronics
 * **Wijesinghe U.G.S.K.D:** Simulation, Component Selection, PCB Schematic Design
