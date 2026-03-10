@@ -1,5 +1,6 @@
+*University of Moratuwa - Dept. of Electronic & Telecommunication Engineering*
 # Analog Computer Project - Team Hypertronics
-# University of Moratuwa - Dept. of Electronic & Telecommunication Engineering
+
 
 
 <img src="images/final_ac0.jpg" width="250"/>
