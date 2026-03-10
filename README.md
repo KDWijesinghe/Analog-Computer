@@ -72,7 +72,19 @@ The project utilized a combination of simulation software and hardware implement
 
 
 ## 👥 Team Hypertronics
-* **Wijesinghe U.G.S.K.D:** Simulation, Component Selection, PCB Schematic Design
-* **Dilhara D.S:** PCB Design, Breadboard Implementation
-* **Wijesekara W.A.G.S:** Power Supply Design, Soldering
-* **Upekshani T.S:** Enclosure Design, Breadboard Implementation
+
+<table>
+<tr>
+<td>
+
+* **Wijesinghe U.G.S.K.D:** Simulation, Component Selection, PCB Schematic Design  
+* **Dilhara D.S:** PCB Design, Breadboard Implementation  
+* **Wijesekara W.A.G.S:** Power Supply Design, Soldering  
+* **Upekshani T.S:** Enclosure Design, Breadboard Implementation  
+
+</td>
+<td>
+<img src="images/demo.jpeg" alt="Team Hypertronics" width="300">
+</td>
+</tr>
+</table>
