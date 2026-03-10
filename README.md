@@ -1,4 +1,6 @@
 # Analog Computer Project - Team Hypertronics
+*University of Moratuwa - Dept. of Electronic & Telecommunication Engineering*
+
 
 <img src="images/final_ac0.jpg" width="250"/>
 
@@ -73,6 +75,3 @@ The project utilized a combination of simulation software and hardware implement
 * **Dilhara D.S:** PCB Design, Breadboard Implementation
 * **Wijesekara W.A.G.S:** Power Supply Design, Soldering
 * **Upekshani T.S:** Enclosure Design, Breadboard Implementation
-
----
-*University of Moratuwa - Dept. of Electronic & Telecommunication Engineering*
